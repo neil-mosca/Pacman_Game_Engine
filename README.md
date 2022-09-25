@@ -50,20 +50,4 @@ add lives, slow computer controlled creatures, teleport user controlled pieces, 
 you can create many types of games. The game variants that we have made include Pacman, mrsPacman, Extreme Pacman (custom powerups),
 Maze Game, and even a puzzle game. Other variants could easily be made such as an "escape" game where the user has to get pickups to get teleported into
 various rooms before the user can escape. Another possible variant would be a survival game where the user has to run away from
-the computer controlled creatures for as long as possible while the timer keeps track of the user's time. From the game screen,
-the user can also reset the game using the Reset button, the user can return to the home page, and the user can play and pause
-the current game. We also included 12 cheat keys for the user to use. The cheat keys are Q, W, E, R, T, Y,
-U, I, O, P, A, S. The keys have the following functions:
-
-- Q : Freezes all ghosts in their current position permanently.
-- W: Resets the ghosts' positions.
-- E: Ends the game.
-- R: Resets the user position.
-- T: Advances to the next Level.
-- Y: Lose one life.
-- U: Makes ghosts blue (edible).
-- I: Adds 500 points to the user's current score.
-- O: Adds 100 points to the user's current score.
-- P: Adds 1,000,000 points to the user's current score.
-- A: Adds one life.
-- S: Removes 1,000,000 points from user's current score.
+the computer controlled creatures for as long as possible while the timer keeps track of the user's time.
