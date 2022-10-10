@@ -10,7 +10,7 @@ The idea is that you could produce any number of game variants using our project
 
 The user can play different game versions, design and play with their own board, and set high scores. We also have robust error handling and 200+ tests.
 
-Names: Nick Strauch, Nicholas Conterno, Abhinav Ratnagiri, Neil Mosca, David Wu
+Names: Neil Mosca (4 others)
 
 ### Timeline
 
